@@ -8,7 +8,7 @@
     "children":[],
     "name":"Default",
   },
-  "defaultScriptType":0,
+  "defaultScriptType":1,
   "Folders":[
     {"$GMFolder":"","%Name":"Animation Curves","folderPath":"folders/Animation Curves.yy","name":"Animation Curves","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Extensions","folderPath":"folders/Extensions.yy","name":"Extensions","resourceType":"GMFolder","resourceVersion":"2.0",},
@@ -34,7 +34,10 @@
   },
   "name":"170-Prototype-3",
   "resources":[
+    {"id":{"name":"NPC","path":"objects/NPC/NPC.yy",},},
+    {"id":{"name":"NPCSpawner","path":"objects/NPCSpawner/NPCSpawner.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"spawnNPC","path":"scripts/spawnNPC/spawnNPC.yy",},},
     {"id":{"name":"_1ab5922a_0e8e_43e5_9d0b_6cca59e3a9fb","path":"sprites/_1ab5922a_0e8e_43e5_9d0b_6cca59e3a9fb/_1ab5922a_0e8e_43e5_9d0b_6cca59e3a9fb.yy",},},
     {"id":{"name":"_52beccf9_064d_43c1_aba4_3336ad8a246e","path":"sprites/_52beccf9_064d_43c1_aba4_3336ad8a246e/_52beccf9_064d_43c1_aba4_3336ad8a246e.yy",},},
   ],
