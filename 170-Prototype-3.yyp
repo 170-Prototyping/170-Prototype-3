@@ -40,6 +40,8 @@
     {"id":{"name":"_1ab5922a_0e8e_43e5_9d0b_6cca59e3a9fb","path":"sprites/_1ab5922a_0e8e_43e5_9d0b_6cca59e3a9fb/_1ab5922a_0e8e_43e5_9d0b_6cca59e3a9fb.yy",},},
     {"id":{"name":"_52beccf9_064d_43c1_aba4_3336ad8a246e","path":"sprites/_52beccf9_064d_43c1_aba4_3336ad8a246e/_52beccf9_064d_43c1_aba4_3336ad8a246e.yy",},},
     {"id":{"name":"applePod2","path":"sprites/applePod2/applePod2.yy",},},
+    {"id":{"name":"canPod2","path":"sprites/canPod2/canPod2.yy",},},
+    {"id":{"name":"cigPod2","path":"sprites/cigPod2/cigPod2.yy",},},
     {"id":{"name":"trashPod2","path":"sprites/trashPod2/trashPod2.yy",},},
   ],
   "resourceType":"GMProject",
