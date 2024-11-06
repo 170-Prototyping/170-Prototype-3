@@ -35,6 +35,8 @@
   "name":"170-Prototype-3",
   "resources":[
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"_1ab5922a_0e8e_43e5_9d0b_6cca59e3a9fb","path":"sprites/_1ab5922a_0e8e_43e5_9d0b_6cca59e3a9fb/_1ab5922a_0e8e_43e5_9d0b_6cca59e3a9fb.yy",},},
+    {"id":{"name":"_52beccf9_064d_43c1_aba4_3336ad8a246e","path":"sprites/_52beccf9_064d_43c1_aba4_3336ad8a246e/_52beccf9_064d_43c1_aba4_3336ad8a246e.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
