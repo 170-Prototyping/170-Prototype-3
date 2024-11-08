@@ -1,4 +1,5 @@
 self.timer ++;
-if(timer%30 == 0){
+if(self.timer%300 == 0 && self.npcCount < self.maxNPCs){
+	self.npcCount ++;
 	spawnNPC();
 }
